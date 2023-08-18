@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.card{
+    width:1450px;
+height: 1070px;
+top: 58px;
+left: 48px;
+margin-top: 150px;
+
+}
+.car-title{
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+color: #111111;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+.card-image{
+   width:100%;
+
+}
+.card-im-down{
+font-family: "Open Sans",sans-serif;
+text-align: center;
+color: #111111;
+}
+.card-h2{
+
+margin: 5px;
+font-size: 56px;
+font-weight: 500;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+color:#111111
+}
+.card-information{
+    width: Hug (1,008px);
+height: Hug (48px);
+top: 112px;                               
+padding: 0px 248.453125px 0px 248.546875px;
+
+}
+.card-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card-button1{
+    width: Hug (110.58px);
+height: Hug (39px);                    
+padding: 7.5px 22.078125px 7.5px 21.5px;
+border-radius: 30px;
+color:#fff;
+background-color: #111111;
+
+
+}
+.card-button2{
+    width: Hug (138.16px);
+height: Hug (39px);
+padding: 7.5px 22.65625px 7.5px 21.5px;
+border-radius: 30px;
+color: #fff;
+background-color:#111111 ;
+}
+

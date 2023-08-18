@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 1723px;
+height: 878px;
+top: 177px;
+left: 719px;
+padding: 156px 339px 157px 339px;
+}
+
+.container{
+    width: 1045px;
+height: 355px;
+top: 366px;
+left: 339px;
+border: 1px solid none;
+display: flex;
+justify-content: space-between;
+margin-top: 100px;
+}
+
+.inform{
+    font-family: 'Fraunces', serif;
+    width: 255px;
+height: 32px;
+top: 156px;
+left: 339px;
+
+font-size: 24px;
+font-weight: 900;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+color: #83888F;
+
+}
+.card{
+    width: 285px;
+height: 355px;
+top: 366px;
+left: 339px;
+border: 1px solid none;
+}
+
+.card-number{
+    font-family: 'Fraunces', serif;
+    font-size: 72px;
+    line-height: 72px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FDD6BA;
+}
+
+.card-pick{
+    font-family: 'Fraunces', serif;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;     
+}
+.card-text{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Fraunces', serif;
+color: #83888F;
+font-family: Barlow;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+}
